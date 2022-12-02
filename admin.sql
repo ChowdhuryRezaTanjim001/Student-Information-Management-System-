@@ -1,0 +1,1 @@
+CREATE TABLE  CREATE TABLE Admin ( student_id int (86) PRIMARY key, S_password varchar (95))
