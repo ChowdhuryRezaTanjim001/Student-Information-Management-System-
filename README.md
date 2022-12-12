@@ -7,7 +7,7 @@
 ### <p align="center">Faculty        : RIFAT HASSAN (RIH)  </p>
 ### <p align="center">Lab Instractor : Md.Sajid Ahmed  </p>
 
-## <p align="center">Group          : C  </p>
+## <p align="center"> Group          : C  </p>
 ### Students are_
 ### <table align="center">
   <tr>
