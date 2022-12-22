@@ -54,18 +54,3 @@ Login Credentials
     url: project_url/sub-pages/student/slogin.php
     username: 15103029
     password: 12345678
-
-You did it !!  
-Open your xamp/ wamp server. Run the project in url in browser and enjoy ..
-
-
-#### N.B: If you have any query or face any problem feel free to knock me.
-Md. Abdullah  
-abdullah001rti@gmail.com  
-Linkedin: https://www.linkedin.com/in/abd1rti  
-fb: https://www.facebook.com/abd1rti  
-skype: abdullah_rti
-
-## License
-
-University Management System is licensed under the [MIT license](LICENSE.md).
