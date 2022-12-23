@@ -42,30 +42,24 @@
 ### Entities for this database:
 1. Admin
 2. Student Profile
-3. Advising Courses
-4. Grade History
-5. Payments
-6. Attendance
-7. Course Drop
-8. Faculty Evaluation
-9. User Guideline 
+3. Subject
+4. Marks History
+5. Attendance
+6. Faculty Profile
 
 ### Description of entities: 
-* <p><b>Admin: </b> Admin entity consists Student ID and Password so that student can login to the webpage and access their academic info.</p>
-* <p><b>Student Profile: </b> It consists student’s Name, ID, Address, Contact</p>
-* <p><b>Advising Courses:</b> This entity will have the courses which will be selected by the students(user) in each semester an select the credit of the course. Each semester one can take 12 credit courses not more than that.</p>
-* <p><b> Grade History:</b> A student can view their grades of the particular course or the grade sheet of whole.</p>
-* <p><b> Payments:</b> A student can view how much fees one has to pay and if the payment is done it will show the message,” Payment Done” and if not then shows,” Not Done Yet”. It also shows the payment history of a student.</p>
+* <p><b> Admin: </b> Admin entity consists ID and Password so that student can login to the webpage and access and view the academic info of student and faculty.</p>
+* <p><b> Student Profile: </b> It consists student’s Name, ID, Address, Contact,email, password, parents info and blood group.</p>
+* <p><b> Subject:</b> This entity will have the courses which will be selected by the students(user) in each semester an select the credit of the course.</p>
+* <p><b> Marks History:</b> A student can view their grades of the particular subject or the grade sheet of whole.</p>
 * <p><b> Attendance:</b> A student can check their attendance of a particular date.</p>
-* <p><b> Course Drop:</b> A student can drop the taken course if he/she don’t want to do the course. But it has to be a date limit it means after that particular date one cannot drop courses.</p>
-* <p><b> Faculty Evaluation:</b> Faculty Evaluation will be given by the student according the performance of a faculty in the class or if the courses are helpful or not.</p>
-* <p><b> User Guideline:</b> It will help the user to understand where and how the system will operate.</p>
+* <p><b> Faculty Profile:</b> Faculty can see their profile and info. And faculties can gives the marks and attendance to student for each courses.</p>
 
 ## Technologies/ Software: 
 * Word/ Power point
 * XMAPP
 * MYSQL
-* JAVASCRIPT/PHP/HTML 
+* JAVASCRIPT/PHP/HTML
 
 
 
