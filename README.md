@@ -49,11 +49,11 @@
 
 ### Description of entities: 
 * <p><b> Admin: </b> Admin entity consists ID and Password so that student can login to the webpage and access and view the academic info of student and faculty.</p>
-* <p><b> Student Profile: </b> It consists student’s Name, ID, Address, Contact,email, password, parents info and blood group</p>
+* <p><b> Student Profile: </b> It consists student’s Name, ID, Address, Contact,email, password, parents info and blood group.</p>
 * <p><b> Subject:</b> This entity will have the courses which will be selected by the students(user) in each semester an select the credit of the course.</p>
 * <p><b> Marks History:</b> A student can view their grades of the particular subject or the grade sheet of whole.</p>
 * <p><b> Attendance:</b> A student can check their attendance of a particular date.</p>
-* <p><b> Faculty Profile:</b> Faculty can see their profile and info.And faculs can gives the marks and attendance to student for each courses.</p>
+* <p><b> Faculty Profile:</b> Faculty can see their profile and info. And faculties can gives the marks and attendance to student for each courses.</p>
 
 ## Technologies/ Software: 
 * Word/ Power point
